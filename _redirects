@@ -1,0 +1,2 @@
+https://itcast.pages.dev/ https://itcast.org/ 301
+https://itcast.pages.dev/* https://itcast.org/:splat 301
